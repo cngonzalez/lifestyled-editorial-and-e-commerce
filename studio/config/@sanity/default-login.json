@@ -1,6 +1,6 @@
 {
   "providers": {
-    "mode": "replace",
+    "mode": "append",
     "redirectOnSingle": false,
     "entries": [
       {
